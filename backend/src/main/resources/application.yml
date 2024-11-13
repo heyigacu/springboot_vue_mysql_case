@@ -1,0 +1,19 @@
+spring:
+  datasource:
+    username: root
+    password: Hy275412@
+    url: jdbc:mysql://127.0.0.1:3306/kokumi
+
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
+
+
+
+
+#    timeout: 1000
+#    jedis:
+#    pool:
+#    min-idle: 5
+#    max-idle: 10
+#    max-wait: -1
